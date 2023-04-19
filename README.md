@@ -32,5 +32,7 @@ describe('my_alpha_number_t', () => {
     expect(result).toBe('Hello');
   });
 })
+
+
 Nous avons importé la fonction my_alpha_number_t dans le fichier de test et défini trois cas de test 
 pour vérifier que la fonction 
